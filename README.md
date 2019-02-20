@@ -8,11 +8,11 @@ OS: Mac OS 10.14
 ## File Structure  
 |——`data`  
 &ensp;&ensp;&ensp;&ensp;&ensp;|——`ap89_collection`  
-     |——`query_list.txt`  
-     |——`qrels.txt`  
-     |——`trec_eval.pl`  
-     |——`results_file.txt`  
-     |——`eval_results.txt`  
+&ensp;&ensp;&ensp;&ensp;&ensp;|——`query_list.txt`  
+&ensp;&ensp;&ensp;&ensp;&ensp;|——`qrels.txt`  
+&ensp;&ensp;&ensp;&ensp;&ensp;|——`trec_eval.pl`  
+&ensp;&ensp;&ensp;&ensp;&ensp;|——`results_file.txt`  
+&ensp;&ensp;&ensp;&ensp;&ensp;|——`eval_results.txt`  
 |——`run.sh`  
 |——`project.py`  
 |——`nltk_download.py`  
