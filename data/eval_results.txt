@@ -1,0 +1,12 @@
+Queryid (Num):       25
+Total number of documents over all queries
+    Retrieved:     1002
+    Relevant:      1832
+    Rel_ret:          1
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.0001
+Precision:
+  At   10 docs:   0.0040
+  At   30 docs:   0.0013
+R-Precision (precision after R (= num_rel for a query) docs retrieved):
+    Exact:        0.0003
