@@ -6,16 +6,16 @@ Python Version: 3.6
 OS: Mac OS 10.14
 
 ## File Structure  
-|————`data`
-	 |————`ap89_collection`
-	 |————`query_list.txt`
-	 |————`qrels.txt`
-	 |————`trec_eval.pl`
-	 |————`results_file.txt`
-	 |————`eval_results.txt`
-|————`run.sh`
-|————`project.py`
-|————`nltk_download.py`
+|————`data`  
+	 |————`ap89_collection`  
+	 |————`query_list.txt`  
+	 |————`qrels.txt`  
+	 |————`trec_eval.pl`  
+	 |————`results_file.txt`  
+	 |————`eval_results.txt`  
+|————`run.sh`  
+|————`project.py`  
+|————`nltk_download.py`  
 |————`README.md`
 
 ## To Run the Program  
