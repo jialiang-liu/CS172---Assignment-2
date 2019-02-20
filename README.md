@@ -26,6 +26,6 @@ OS: Mac OS 10.14
 &ensp;&ensp;&ensp;&ensp;Python 3  
 &ensp;&ensp;&ensp;&ensp;numpy  
 &ensp;&ensp;&ensp;&ensp;nltk.all-corpora.  
-If the script fails to install them, please install them manually. nltk_download.py is provided for nltk_data;
+If the script fails to install them, please install them manually. `nltk_download.py` is provided for nltk_data;
 5. After seeing "ALL-FINISHED" from terminal, results can be checked from `results_file.txt`;
 6. `eval_results.txt` is the result I got from trec_eval. It includes non-interpolated average precision and precisions when 10 and 30 documents were retrieved.
