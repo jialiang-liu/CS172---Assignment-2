@@ -7,7 +7,7 @@ OS: Mac OS 10.14
 
 ## File Structure  
 |——`data`  
-     ;|——`ap89_collection`  
+;;;;;|——`ap89_collection`  
      |——`query_list.txt`  
      |——`qrels.txt`  
      |——`trec_eval.pl`  
