@@ -1,14 +1,14 @@
-###CS172 Assignment 2###
+# CS172 Assignment 2  
 Jialiang Liu
 
-##Environment for Developing##
-Python Version: 3.6
+## Environment for Developing  
+Python Version: 3.6  
 OS: Mac OS 10.14
 
-##File Structure##
+## File Structure  
 |————`data`\\	 |————`ap89_collection`\\	 |————`query_list.txt`\\	 |————`qrels.txt`\\	 |————`trec_eval.pl`\\	 |————`results_file.txt`\\	 |————`eval_results.txt`\\|————`run.sh`\\|————`project.py`\\|————`nltk_download.py`\\|————`README.md`
 
-##To Run the Program##
+## To Run the Program  
 1. Go inside the project's folder from terminal;
 2. Execute `chmod a+x ./run.sh` to give permission to the shell script;
 3. Run `run.sh` by command `./run.sh`;
